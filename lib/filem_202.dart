@@ -183,7 +183,7 @@ class HomePage extends StatelessWidget {
                           ),
                         ),
                         const Text(
-                          'Aliya Ifa Salsabela',
+                          'Bella',
                           style: TextStyle(
                             fontSize: 18,
                             fontWeight: FontWeight.w600,
@@ -215,7 +215,7 @@ class HomePage extends StatelessWidget {
                             borderRadius: BorderRadius.circular(20),
                           ),
                           child: const Text(
-                            'NIM: 2023102009 & 2023102007 & 2023102013 ',
+                            'NIM: 2023102009 & 2023102007 & ',
                             style: TextStyle(
                               fontSize: 14,
                               fontWeight: FontWeight.bold,
