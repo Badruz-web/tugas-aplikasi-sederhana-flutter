@@ -1,5 +1,12 @@
 import 'package:flutter/material.dart';
 
+// ===========================================
+// APLIKASI FILM REKOMENDASI
+// Dibuat oleh: Muhammad Badruz Zaman & Ainun Nadiroh
+// NIM: 2023102009 & 2023102007
+// Tanggal: 2024
+// ===========================================
+
 // Model data untuk sebuah film
 class Movie {
   final String nama;
